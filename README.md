@@ -1,4 +1,4 @@
-![GradeAI Logo](./assets/logo.png)
+<img src="./assets/logo.png" alt="GradeAI Logo" width="300" />
 
 # GradeAI
 
