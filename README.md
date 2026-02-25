@@ -128,9 +128,8 @@ GradeAI/
 │   ├── services/
 │   ├── ui/
 │   └── utils/
-└── test_exams/
 ```
-
+ 
 ## Contributing
 Contributions are welcome.
 
